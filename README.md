@@ -52,6 +52,9 @@ Silver: Cleaned, standardized data with schema handled
 
 Gold: Star Schema tables with SCD2 logic
 
+<img width="1536" height="672" alt="Gemini_Generated_Image_pqbcnepqbcnepqbc" src="https://github.com/user-attachments/assets/f4549715-e652-49fd-9294-22637ff01db6" />
+
+
 ## 📊 3. Tools and Technologies Used
 Component	Technology
 Streaming	Azure Event Hub, Kafka
@@ -276,7 +279,13 @@ Add ML model for occupancy prediction
 
 Build hospital wide forecasting engine
 
-## 🙌 15. Author
+## 🙌 15. 👤 Author
 
 Varaprasad Bathina
 Data Engineer | Azure | PySpark | SQL
+
+🔗 LinkedIn: https://www.linkedin.com/in/lakshmi-prasad-b-91a67b198/
+
+📧 Email: blaxmiprasad6@gmail.com
+
+💻 GitHub: https://github.com/VaraprasadBathina
